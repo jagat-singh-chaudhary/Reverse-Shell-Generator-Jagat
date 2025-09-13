@@ -28,7 +28,7 @@ Key features include:
 
 ### Installation
 
-1. Clone or download all files (`Reverse-Shell-Generator-Jagat`, `shells.txt`, and `install.sh`) into a directory.
+1. Clone or download all files (https://github.com/jagat-singh-chaudhary/Reverse-Shell-Generator-Jagat.git) into a directory.
 2. Run the installation script as root to copy the main program to `/usr/local/bin` for easy global access:
 
    ```sh
